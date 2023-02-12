@@ -1,1 +1,4 @@
-tkinter
+python3-tk
+
+# sudo pacman -S tk
+# sudo apt install python3-tk
